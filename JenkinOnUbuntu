@@ -1,0 +1,6 @@
+Log into aws account and create one Ubuntu Instance
+Access it through 'putty' -> login as 'Ubuntu
+Use given Commands
+sudu apt-get update
+sudo apt-cache search openjdk
+
