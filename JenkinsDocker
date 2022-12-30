@@ -8,9 +8,11 @@ Pipelines:-
 Declarative pipeline syntax
 --------------------
 pipeline{
+  agent any
   stages{
     stage("build"){
-          step{
+          steps{
+              echo "welcome to jenkins pipeline"
           
           }
     }
