@@ -21,3 +21,64 @@ pipeline{
 }
 
 Converting Manual job into pipeline
+
+
+
+Automation Step by Step
+==============================
+
+Create First Job on Jenkins
+35:51 How to connect to Git Repository
+ go to github repository
+  - create a new repository
+  - create a new file (readme.txt)This is a sample file
+  - create new job - freestyle 
+  - adding creditional for github - manage jenkins -> manage credentials  - add credentials
+
+
+Chain Jobs
+
+Jenkins Pipeline Beginner Tutorial 
+How to create Jenkinsfile
+- What is pipeline
+- What is jenkins pipeline
+- What is jenkinsfile
+- How to create jenkinsfile
+
+Build ＞ Deploy ＞ Test ＞ Release
+Jenkinsfile : Pipeline as a code
+
+Step 1 Start Jenkins
+Step 2 Install Pipeline Plugin
+Step 3 Create a new job
+Step 4 Create or get Jenkinsfile in Pipeline section
+Step 5 Run and check the output
+
+Jenkins Pipeline
+How to get jenkinsfile from Git SCM
+
+Step 1 : Create a new job or use existing job (type: Pipeline)
+Step 2 : Create a repository or GitHub
+Step 3 : Add Jenkinsfile in the repo
+Step 4 : Under Jenkins job ＞ Pipeline section ＞ Select Definition Pipeline script from SCM
+Step 5 : Add repo and jenkinsfile location in the job under Pipeline section
+Step 6 : Save & Run
+
+Jenkins Pipeline
+How to clone a git repo using Jenkinsfile
+all videos on Jenkins
+Jenkins is free and the most widely used CI CD tool
+  
+  
+
+
+
+
+
+
+
+
+38:18 How to add Credentials
+41:46 Use custom Job Workspace
+
+
