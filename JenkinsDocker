@@ -1,0 +1,21 @@
+Docker for Jenkins
+- docker provides standard platform regardless of operating system
+- speed up installation process
+
+
+
+Pipelines:-
+Declarative pipeline syntax
+--------------------
+pipeline{
+  stages{
+    stage("build"){
+          step{
+          
+          }
+    }
+  
+  }
+}
+
+Converting Manual job into pipeline
