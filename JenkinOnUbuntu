@@ -1,6 +1,45 @@
+Linked Project:-
+
 Log into aws account and create one Ubuntu Instance
 Access it through 'putty' -> login as 'Ubuntu
 Use given Commands
 sudu apt-get update
 sudo apt-cache search openjdk
+
+-------------------
+
+Jaken Project
+Personal Access Token
+Jenkins and GitHub Integration uisng - git plug in
+CI/CD Pipeline
+
+
+
+Upstream - Downstream
+-----------------------
+
+
+User Management:-
+  install plugin - Role-based authoriation strategy
+
+
+Master - Slave(Helper) Concept
+--------------------------
+creating jenkins user, jenkin job, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
